@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-4EA94B?style=flat&logo=arduino&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-20232A?style=flat&logo=arduino&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
